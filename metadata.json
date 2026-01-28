@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WallCraft AI - Ultra HD Wallpapers",
+  "description": "A premium wallpaper application with AI-powered generation, live phone previews, and curated high-resolution collections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
